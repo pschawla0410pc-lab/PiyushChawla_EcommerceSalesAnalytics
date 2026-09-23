@@ -1,0 +1,7 @@
+pandas>=2.0.0
+plotly>=5.18.0
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+nbformat>=5.9.0
+kaleido>=0.2.1
